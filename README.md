@@ -38,15 +38,7 @@ The detected keypoints enable applications such as:
 
 | Input Image                              | Predicted Keypoints                       |
 | ---------------------------------------- | ----------------------------------------- |
-| <img src="assets/input.jpg" width="420"> | <img src="assets/output.jpg" width="420"> |
-
----
-
-# 🎥 Demo
-
-<p align="center">
-<img src="assets/demo.gif" width="850">
-</p>
+| <img src="assets/input.jpg" width="420"> | <img src="assets/output.png" width="420"> |
 
 ---
 
@@ -56,8 +48,7 @@ The detected keypoints enable applications such as:
 Padel-Court-Keypoint-Detection/
 │
 ├── assets/
-│   ├── banner.png
-│   ├── demo.gif
+│   ├── 1.png
 │   ├── input.jpg
 │   ├── output.jpg
 │
