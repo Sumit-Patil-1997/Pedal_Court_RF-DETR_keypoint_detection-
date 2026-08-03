@@ -55,11 +55,6 @@ Padel-Court-Keypoint-Detection/
 ├── notebooks/
 │   ├── KeyPoint_Detection.ipynb
 │
-├── checkpoints/
-│   ├── checkpoint_best_regular.pth
-│
-├── inference/
-│
 ├── outputs/
 │
 ├── requirements.txt
