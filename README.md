@@ -1,7 +1,7 @@
 # 🎾 Padel Court Keypoint Detection using RF-DETR
 
 <p align="center">
-  <img src="assets/banner.png" alt="Padel Court Keypoint Detection Banner" width="100%">
+  <img src="assets/1.jpg.jpeg" alt="Padel Court Keypoint Detection Banner" width="65%">
 </p>
 
 <p align="center">
