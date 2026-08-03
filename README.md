@@ -309,6 +309,6 @@ This project is released under the **MIT License**.
 
 Master's in Data Science | Computer Vision & Deep Learning Enthusiast
 
-GitHub: https://github.com/<YOUR_USERNAME>
+GitHub: https://github.com/Sumit-Patil-1997
 
-LinkedIn: https://linkedin.com/in/<YOUR_LINKEDIN>
+LinkedIn: https://www.linkedin.com/in/sumitkpatil1997/
