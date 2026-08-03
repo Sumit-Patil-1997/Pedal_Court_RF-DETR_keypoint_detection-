@@ -260,8 +260,8 @@ annotated = annotate_keypoints(image, predictions)
 
 <p align="center">
 
-<img src="assets/result1.jpg" width="45%">
-<img src="assets/result2.jpg" width="45%">
+<img src="assets/result1.png" width="45%">
+<img src="assets/result2.png" width="45%">
 
 </p>
 
